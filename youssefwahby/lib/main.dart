@@ -16,7 +16,7 @@ class App extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.blue.shade500,
         appBar: AppBar(
-          backgroundColor: Colors.green,
+          backgroundColor: Colors.red,
           title: Center(
             child: Text(
               'QUIZ',
